@@ -1,0 +1,73 @@
+﻿'20180621_01.exe' (Win32): 'C:\Users\Administrator\Desktop\GP11B\file\20180726_02 DX\Debug\20180621_01.exe' が読み込まれました。シンボルが読み込まれました。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\ntdll.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\kernel32.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\KernelBase.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\user32.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\gdi32.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\lpk.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\usp10.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\msvcrt.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\advapi32.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\sechost.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\rpcrt4.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\sspicli.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\cryptbase.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\d3d9.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\version.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\d3d8thk.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\dwmapi.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\D3DX9_43.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\dinput8.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\winmm.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\imm32.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\msctf.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\nvinit.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\_etoured.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\nvd3d9wrap.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\setupapi.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\cfgmgr32.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\oleaut32.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\ole32.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\devobj.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Program Files (x86)\NVIDIA Corporation\coprocmanager\nvdxgiwrap.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\dxgi.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\api-ms-win-core-synch-l1-2-0.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\uxtheme.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\wintrust.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\crypt32.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\msasn1.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\nvumdshim.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\advapi32.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\advapi32.dll' がアンロードされました
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\nvinit.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\nvinit.dll' がアンロードされました
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\igdumdim32.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\igdusc32.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\gdi32.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\gdi32.dll' がアンロードされました
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\nvd3dum.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+スレッド 0x1140 はコード 0 (0x0) で終了しました。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\user32.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\user32.dll' がアンロードされました
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\advapi32.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\advapi32.dll' がアンロードされました
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\powrprof.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Program Files (x86)\NVIDIA Corporation\3D Vision\nvSCPAPI.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\psapi.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\shell32.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\shlwapi.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\shell32.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\shell32.dll' がアンロードされました
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\hid.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\ntmarta.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\Wldap32.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\ole32.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'20180621_01.exe' (Win32): 'C:\Windows\SysWOW64\ole32.dll' がアンロードされました
+スレッド 0x25cc はコード 0 (0x0) で終了しました。
+スレッド 0x1148 はコード 0 (0x0) で終了しました。
+スレッド 0xe10 はコード 0 (0x0) で終了しました。
+スレッド 0x24b8 はコード 0 (0x0) で終了しました。
+スレッド 0xecc はコード 0 (0x0) で終了しました。
+スレッド 0x1078 はコード 0 (0x0) で終了しました。
+スレッド 0x2200 はコード 0 (0x0) で終了しました。
+プログラム '[7772] 20180621_01.exe' はコード 0 (0x0) で終了しました。
